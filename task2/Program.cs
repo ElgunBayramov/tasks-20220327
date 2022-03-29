@@ -10,7 +10,7 @@ namespace task2
                    int sum = 0;
                    Console.Write("ededi daxil et: ");
                    int eded=int.Parse(Console.ReadLine());
-            if (eded > 100000 && eded <= 1000000)
+            if (eded >= 100000 && eded < 1000000)
             {
                 while (eded>0)
                 {
