@@ -38,6 +38,7 @@ namespace task11
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("daxil edilen eded 8 reqemli deyil");
+                Console.ResetColor();
             }
         }
     }

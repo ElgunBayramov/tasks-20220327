@@ -45,6 +45,7 @@ namespace task10
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("sert duzgun odenilmeyib");
+                Console.ResetColor();
             }
 
         }

@@ -43,6 +43,7 @@ namespace task12
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("daxil edilen reqemler serti odemir");
+                Console.ResetColor();
             }
         }
     }
