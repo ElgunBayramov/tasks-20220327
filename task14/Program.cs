@@ -15,13 +15,13 @@ namespace task14
             int a1, a2, a3, a4, b1, b2, b3,x, cem, cem1;
             int n = 60;
             double y,w,z;
-            Console.Write("eded daxil et: ");
+            Console.Write("6 reqemli eded daxil et: ");
             int eded1=int.Parse(Console.ReadLine());
-            Console.Write("eded daxil et: ");
+            Console.Write("6 reqemli eded daxil et: ");
             int eded2=int.Parse(Console.ReadLine());
-            Console.Write("eded daxil et: ");
+            Console.Write("6 reqemli eded daxil et: ");
             int eded3=int.Parse(Console.ReadLine());
-            Console.Write("eded daxil et: ");
+            Console.Write("7 reqemli eded daxil et: ");
             int eded4=int.Parse(Console.ReadLine());
             if(eded1>=100000 && eded1<1000000 && eded2>=100000 && eded2<1000000 && eded3>=100000 && eded3 < 1000000 && eded4>=1000000 && eded4<10000000)
             {
