@@ -47,7 +47,7 @@ namespace task14
                 z = double.Parse(y.ToString() +n.ToString());
                 Console.WriteLine($"{y} ededinin axirina 60 elave etdikde alinan eded: {z}{0}");
                 w = z - (z * 18 * 1.0 / 100);
-                Console.WriteLine($"{z} ededinin 18 faizi: {w}");
+                Console.WriteLine($"{z} ededi ile {z} ededinin 18 faizinin ferqi: {w}");
             }
             else
             {
